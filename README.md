@@ -1,6 +1,6 @@
 implementation of proposed approach for an efficient move operation on trees
 
-``To run : go run main.go -n <number of replicas> -p <replica ID> -r <number of operations> -o <intervals of operation generation> -s <size of tree>```
+```To run : go run main.go -n <number of replicas> -p <replica ID> -r <number of operations> -o <intervals of operation generation> -s <size of tree>```
 
 Example: 200 total operations, operations generated every 5ms interval(5000 microsecond), tree size 50
 
