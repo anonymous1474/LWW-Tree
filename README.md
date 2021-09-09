@@ -10,4 +10,4 @@ Example: 200 total operations, operations generated every 5ms interval(5000 micr
 
 after cloning : do ```go get -d``` to get all dependancies
 
-in setup.go change accordingly to setup cloud vms (lines 76-78) as mentioned in comments. Default is for cloud. Similarly Comment out (lines 79-81) to stop local run.
+in setup.go change accordingly to setup cloud vms (lines 76-78) as mentioned in comments. Default is for cloud. Similarly uncomment (lines 79-81) to do local run.
